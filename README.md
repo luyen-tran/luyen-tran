@@ -35,6 +35,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://count.getloli.com/@:luyen-tran?theme=yousa-ling&padding=6&offset=3&scale=2&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luyen-tran/luyen-tran/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luyen-tran/luyen-tran/output/pacman-contribution-graph.svg">
