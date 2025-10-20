@@ -15,16 +15,29 @@
 <div align="left">
     <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
     <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
-    <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-    <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo" />
-    <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo" />
-    <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
-</div>
+    <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss lm
 
 ###
 
-<div align="center">
-  <img src="https://count.getloli.com/@:luyen-tran?theme=yousa-ling&padding=6&offset=3&scale=2&align=top&pixelated=1&darkmode=auto"  />
+<div align="left">
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  </a>
+  <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  </a>
+  <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  </a>
+  <a href="https://supabase.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo" />
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo" />
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
+  </a>
 </div>
 
 ###
