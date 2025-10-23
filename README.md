@@ -6,8 +6,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">I code with</h3>
 
 ### 
